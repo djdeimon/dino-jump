@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "jump.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1640,
+				"h": 1227
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Jump (3)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 91,
+						"w": 382,
+						"h": 335
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 382,
+						"h": 335
+					}
+				},
+				{
+					"filename": "Jump (2)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 87,
+						"w": 384,
+						"h": 339
+					},
+					"frame": {
+						"x": 382,
+						"y": 0,
+						"w": 384,
+						"h": 339
+					}
+				},
+				{
+					"filename": "Jump (12)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 51,
+						"w": 403,
+						"h": 379
+					},
+					"frame": {
+						"x": 766,
+						"y": 0,
+						"w": 403,
+						"h": 379
+					}
+				},
+				{
+					"filename": "Jump (4)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 77,
+						"w": 385,
+						"h": 383
+					},
+					"frame": {
+						"x": 1169,
+						"y": 0,
+						"w": 385,
+						"h": 383
+					}
+				},
+				{
+					"filename": "Jump (7)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 17,
+						"w": 416,
+						"h": 395
+					},
+					"frame": {
+						"x": 0,
+						"y": 383,
+						"w": 416,
+						"h": 395
+					}
+				},
+				{
+					"filename": "Jump (1)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 30,
+						"w": 371,
+						"h": 396
+					},
+					"frame": {
+						"x": 416,
+						"y": 383,
+						"w": 371,
+						"h": 396
+					}
+				},
+				{
+					"filename": "Jump (8)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 18,
+						"w": 416,
+						"h": 398
+					},
+					"frame": {
+						"x": 787,
+						"y": 383,
+						"w": 416,
+						"h": 398
+					}
+				},
+				{
+					"filename": "Jump (6)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 18,
+						"w": 416,
+						"h": 399
+					},
+					"frame": {
+						"x": 1203,
+						"y": 383,
+						"w": 416,
+						"h": 399
+					}
+				},
+				{
+					"filename": "Jump (5)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 19,
+						"w": 415,
+						"h": 403
+					},
+					"frame": {
+						"x": 0,
+						"y": 782,
+						"w": 415,
+						"h": 403
+					}
+				},
+				{
+					"filename": "Jump (9)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 19,
+						"w": 414,
+						"h": 403
+					},
+					"frame": {
+						"x": 415,
+						"y": 782,
+						"w": 414,
+						"h": 403
+					}
+				},
+				{
+					"filename": "Jump (11)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 44,
+						"w": 407,
+						"h": 410
+					},
+					"frame": {
+						"x": 829,
+						"y": 782,
+						"w": 407,
+						"h": 410
+					}
+				},
+				{
+					"filename": "Jump (10)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 680,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 27,
+						"w": 404,
+						"h": 445
+					},
+					"frame": {
+						"x": 1236,
+						"y": 782,
+						"w": 404,
+						"h": 445
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:42cbd8facb47cd0a398d2cb9f9bc09f2:c7a6d7da82ef4f17a8dba7570c510f37:56c9fa24931e40777fe0ddacfe328adf$"
+	}
+}
